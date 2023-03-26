@@ -1,12 +1,12 @@
 # [rfly-openha.github.io](https://github.com/rfly-openha/rfly-openha.github.io)
 
-Home page of OpenHA by rfly. The source code and documents are both available.
+Home page of OpenHA by rfly. The source code files, documentations, and other support materials are all available here.
 
 Welcome to the home page of OpenHA in GitHub.
 
 This project is initially launched by the Reliable Flight Control Group (rfly) of Beihang University, and the tentative idea of OpenHA could trace back to the year 2019, just before the breakout of the COVID-19 epidemic.
 
-In the past years, we have done a lot of work to get prepared to launch this long-term project.
+In the past years, we have done a lot of work to get us prepared to launch this long-term project.
 
 We have done some relative projects, conducted in-depth research, and published some scientific papers.
 
